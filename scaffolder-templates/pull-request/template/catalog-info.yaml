@@ -6,3 +6,5 @@ spec:
   type: website
   lifecycle: experimental
   owner: user:guest
+  dependsOn:
+    - yolo42
